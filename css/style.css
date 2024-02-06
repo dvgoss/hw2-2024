@@ -37,3 +37,11 @@ div{
     margin-top: 15px;
     line-height: 2;
 }
+.red{
+    background-color: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-bottom: 2px;
+    border-left: 5px;
+}
+.blue
