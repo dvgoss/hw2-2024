@@ -74,3 +74,9 @@ footer {
     background: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
     border: 5px solid #ffffff;
 }
+footer p{
+    font-size: 20px;
+    text-align: right;
+    padding: 15px;
+    padding-left: 0px;
+}
