@@ -44,4 +44,14 @@ div{
     border-bottom: 2px;
     border-left: 5px;
 }
-.blue
+.blue-div{
+    background-color: #0000ff;
+    text-align: right;
+    margin-right:50px;
+    border-right: 5px;
+    border-top: 2px;
+}
+.blue-div h2,
+.blue-div p {
+    color: #C4C4C4; /* #C4C4C4 color for heading and paragraph text */
+}
